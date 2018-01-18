@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/satori/go.uuid.svg?branch=master)](https://travis-ci.org/satori/go.uuid)
 [![Coverage Status](https://coveralls.io/repos/github/satori/go.uuid/badge.svg?branch=master)](https://coveralls.io/github/satori/go.uuid)
 [![GoDoc](http://godoc.org/github.com/satori/go.uuid?status.svg)](http://godoc.org/github.com/satori/go.uuid)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fgo.uuid.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fgo.uuid?ref=badge_shield)
 
 This package provides pure Go implementation of Universally Unique Identifier (UUID). Supported both creation and parsing of UUIDs.
 
@@ -72,3 +73,7 @@ Copyright (C) 2013-2018 by Maxim Bublis <b@codemonkey.ru>.
 
 UUID package released under MIT License.
 See [LICENSE](https://github.com/satori/go.uuid/blob/master/LICENSE) for details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fgo.uuid.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fgo.uuid?ref=badge_large)
